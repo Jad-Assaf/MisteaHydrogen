@@ -378,9 +378,7 @@ button.reset:hover:not(:has(> *)) {
 
 .featured-collection-image {
   width: 100%;
-  max-width: 1600px;
   height: auto;
-  margin-left: auto;
 }
 
 .featured-collection img {
